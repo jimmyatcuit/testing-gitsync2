@@ -12,6 +12,16 @@ awf
 wae
 gre
 sg
+
+gresg
+resg
+rsg
+res
+gres
+g
+esrg
+res
+
 resg
 esrg
 esr
